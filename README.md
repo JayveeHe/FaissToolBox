@@ -10,4 +10,4 @@ A Toolbox for Vector Similarity Search based on Faiss Framework
 
 
 # Usage:
-Please find the example at `Tutorial/simple_demo.py`
+Please find the example at [notebook Demo](https://github.com/JayveeHe/FaissToolBox/blob/master/Tutorial/demo.ipynb)
