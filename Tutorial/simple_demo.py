@@ -26,6 +26,8 @@ for i in range(len(rand_vecs)):
     if i % 100 == 0:
         print(i, 'done')
 
+
+# save index to disk
 index_path = './demo_index.idx'
 vec_key_path = './demo_vec_key.dic'
 fim.save(index_file_path=index_path, dict_path=vec_key_path)
